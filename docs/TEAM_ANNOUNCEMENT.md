@@ -1,6 +1,6 @@
 # Team announcement
 
-Welcome to the **Dolosseum**! 🏛️
+Welcome to the **Dolosseum**! 🏛️ Team Iron Golem reporting for duty. 🛡️
 
 We're reproducing a few [Colosseum](https://arxiv.org/abs/2602.15198) collusion experiments, then trying newer models and new games.
 
