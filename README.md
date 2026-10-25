@@ -1,5 +1,9 @@
 # Dolosseum 🏛️
 
+<a href="https://minecraft.wiki/w/File:Iron_Golem_JE2_BE2.png"><img src="https://minecraft.wiki/images/Iron_Golem_JE2_BE2.png" alt="Minecraft iron golem — Team Iron Golem" width="120"></a>
+
+**Team Iron Golem** enters the arena! 🛡️
+
 **Reproduce Colosseum. Then throw new models and new games into the arena.**
 
 Apart AI Collusion Sprint · October 23–25, 2026
@@ -39,4 +43,4 @@ Log actual model IDs, seeds, failures, and costs. Don't count a model's collusiv
 
 [Task board](TASK_BOARD.md) · [Research plan](docs/RESEARCH_PLAN.md) · [Results](RESULTS.md) · [Contributing](CONTRIBUTING.md)
 
-*Independent community sprint, not an official UMass project. No results yet.* 
+*Independent community sprint, not an official UMass project. No results yet.*
