@@ -1,11 +1,9 @@
-# Dolosseum team announcement (copy to Discord/Slack)
+# Team announcement
 
 Welcome to the **Dolosseum**! 🏛️
 
-We're reproducing key Colosseum experiments on collusion between LLM agents, then throwing new models and new games into the arena.
+We're reproducing a few [Colosseum](https://arxiv.org/abs/2602.15198) collusion experiments, then trying newer models and new games.
 
-There are concrete tasks for folks who want to run a benchmark, wire up Kimi/Claude/GPT/Dolos, or audit regret. **And we've added open arenas for the inventive folks**: design a bizarre new collusion game, find a hidden incentive in an existing one, let agents discover their own conspirators, or propose a hypothesis that would make us change our minds.
+Pick something from [the task board](../TASK_BOARD.md): run a baseline, bring GPT/Claude/Kimi/Dolos into the arena, check a metric, or invent a game. The [open arenas](IDEA_PLAYGROUND.md) are deliberately loose—pitch a weird incentive, toy scenario, or counterexample. No GPU or code needed.
 
-You don't need a GPU, API credits, or even code to contribute an idea. A short pitch with a toy scenario and one way to falsify it is great. Multiple people can riff on the same arena—we want different ideas, not dibs.
-
-Start with `TASK_BOARD.md` and `docs/IDEA_PLAYGROUND.md`. Pick something fun and open a small PR! :D
+Small PRs, multiple ideas per arena, and surprises encouraged. :D
